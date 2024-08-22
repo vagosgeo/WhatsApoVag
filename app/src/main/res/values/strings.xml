@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApoVagWhatsApp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_chat">Enter Chatroom</string>
+    <string name="enter_chatroom">Enter Chatroom</string>
+    <string name="btn_login">Log In</string>
+    <string name="Loading">Please wait...</string>
+    <string name="enter_go">GO</string>
+    <string name="enter_Message">Enter Message</string>
+    <string name="btn_join">JOIN</string>
+    <string name="element_text">Message Sample</string>
+    <string name="take_history">Refresh</string>
+</resources>
